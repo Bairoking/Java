@@ -1,1 +1,1 @@
-A repo for all my Java Language files in The University of The Gambia | programming 1
+A repo for all my Java Language files on My School Projects | programming 1
